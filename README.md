@@ -5,4 +5,6 @@ I used the following libraries:
  - java-string-similarity (0.10)
  
 To run this program you should use the following syntax:
-    java -jar out/artifacts/xml_analyzer_jar/xml-analyzer.jar <original file path> <sample file path>
+```java
+java -jar out/artifacts/xml_analyzer_jar/xml-analyzer.jar <original file path> <sample file path>
+```
