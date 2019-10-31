@@ -1,3 +1,6 @@
+# Smart XML Analyzer
+### Developed by Henzer Garcia
+
 This project was created based on the requirement on Smart XML Analyzer of Agile Engine.
 
 I used the following libraries:
